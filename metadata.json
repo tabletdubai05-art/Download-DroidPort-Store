@@ -1,0 +1,6 @@
+{
+  "name": "DroidPort Store",
+  "description": "Loja oficial Android para ports de jogos e jogos indies, com download direto, P2P via LibreTorrent, relatos de desempenho por celular e tutoriais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
